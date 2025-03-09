@@ -17,3 +17,6 @@ sidebar_position: 1
 - explain test strategy
 - point to observability dashboards, alerts
 - provide Architecture Decision Records, roadmap 
+
+
+![ornament](../red-small.png)

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Cover page
 
 Hello! 👋  
@@ -24,6 +23,5 @@ Engineering principles I follow:
 - fear of software entropy
 
 
+![ornament](./red-small.png)
 
-
-![book-cover](book-cover-1.jpg)

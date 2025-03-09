@@ -20,3 +20,6 @@ The Good Docs Project in a fantastic library of documentation templates:
   
   
 🔗 [Good Docs Project](https://www.thegooddocsproject.dev/template)
+
+
+![ornament](../red-small.png)

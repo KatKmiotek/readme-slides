@@ -20,3 +20,6 @@ sidebar_position: 2
 - point to observability dashboards, alerts
 - provide Architecture Decision Records, roadmap  
 - use semantic versioning when tag your releases  
+
+
+![ornament](../red-small.png)

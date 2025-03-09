@@ -8,3 +8,6 @@ sidebar_position: 4
 - Color-coded sections for different types of content
 - Collapsible sections for detailed information
 - Tables for comparing options or features
+
+
+![ornament](../red-small.png)

@@ -8,3 +8,6 @@ sidebar_position: 2
 - Creating consistent emoji systems (⚠️ for warnings, 💡 for tips)
 - Accessibility considerations with emojis
 - Tools for finding the right emojis (like emoji-cheat-sheet)
+
+
+![ornament](../red-small.png)

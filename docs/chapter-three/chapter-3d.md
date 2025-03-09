@@ -28,3 +28,6 @@ Curated list of awesome documentations 😍
 Ever thought of doing technical writing course?  
 
 🔗 you can sign up [here](https://developers.google.com/tech-writing)
+
+
+![ornament](../red-small.png)

@@ -17,3 +17,6 @@ sidebar_position: 3
 - explain deployment process
 - point to observability dashboards, alerts
 - provide CODEOWNERs contact details (Slack channel)
+
+
+![ornament](../red-small.png)

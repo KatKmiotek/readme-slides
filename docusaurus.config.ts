@@ -5,8 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Your Site Title',
-  url: 'https://your-site-url.com',
+  title: 'Once Upon a README: The Art of Technical Storytelling',
+  url: 'https://readme-wtm2025.netlify.app/',
+  
   baseUrl: '/',
   i18n: {
     defaultLocale: 'en',

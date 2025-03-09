@@ -18,3 +18,6 @@ Four quadrants approach:
 Examples:
 - [Django](https://docs.djangoproject.com/en/5.1/)
 - [metric collector](https://github.com/KatKmiotek/metric-collector)
+
+
+![ornament](../red-small.png)

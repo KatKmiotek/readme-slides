@@ -14,3 +14,6 @@ They have also Slack community ♥️
 
 
 🔗 [Write The Docs](https://www.writethedocs.org/guide/)
+
+
+![ornament](../red-small.png)

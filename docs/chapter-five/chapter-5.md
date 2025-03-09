@@ -7,3 +7,6 @@ sidebar_position: 1
 - How visual elements improve readability and engagement
 - Research on how developers scan documentation before reading
 - Balance between professional appearance and visual interest
+
+
+![ornament](../red-small.png)

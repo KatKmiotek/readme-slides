@@ -8,3 +8,6 @@ sidebar_position: 3
 - How to generate badges with shields.io
 - Custom badges that reflect your project's personality
 - Placement strategies for maximum impact
+
+
+![ornament](../red-small.png)
