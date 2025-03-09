@@ -34,7 +34,7 @@ const config: Config = {
           label: 'Once Upon a README: The Art of Technical Storytelling',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/KatKmiotek/readme-slides',
           label: 'GitHub',
           position: 'right',
         },
