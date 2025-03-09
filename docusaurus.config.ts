@@ -8,7 +8,10 @@ const config: Config = {
   title: 'Your Site Title',
   url: 'https://your-site-url.com',
   baseUrl: '/',
-
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
   presets: [
     [
       'classic',
