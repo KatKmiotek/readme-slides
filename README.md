@@ -1,41 +1,23 @@
-# Website
+<h1 align="center">Welcome to readme-slides 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> My slides for Women Techmakers Scotland conference in 2025
 
-### Installation
+## Author
 
-```
-$ yarn
-```
+👤 **Kat Kmiotek**
 
-### Local Development
+* Website: https://www.linkedin.com/in/katarzyna-kmiotek
+* Github: [@KatKmiotek](https://github.com/KatKmiotek)
 
-```
-$ yarn start
-```
+## Show your support
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Give a ⭐️ if this project helped you!
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

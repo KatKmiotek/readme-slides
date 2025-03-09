@@ -9,5 +9,6 @@ sidebar_position: 2
 - Accessibility considerations with emojis
 - Tools for finding the right emojis (like emoji-cheat-sheet)
 
+![emojis](./emojis.png)
 
 ![ornament](../red-small.png)
