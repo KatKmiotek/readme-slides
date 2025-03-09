@@ -11,4 +11,5 @@ sidebar_position: 2
  - How to keep reader engaged
  - Once story is published
 
+![qr-code](./qr.png)
 ![ornament](./red-small.png)

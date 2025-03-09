@@ -2,16 +2,18 @@
 sidebar_position: 3
 ---
 
-# Firefighter
+# Ad-hoc Contributor
 
-**Firefighter** can be:
+**Ad-hoc Contributor** can be:
 - on call engineer
+- Platform/Infrastructure/DevOps Engineer
 
-**Firefighter's goals**:
+**Ad-hoc Contributor's goals**:
 - quickly revert breaking change to fix production issue
+- perform system maintenance task  
 
 
-**Empower Firefighter by**:
+**Ad-hoc Emergency Contributor by**:
 - provide hot fix guideline
 - mention dependencies if any
 - explain deployment process
