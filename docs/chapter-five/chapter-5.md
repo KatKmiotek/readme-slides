@@ -4,8 +4,9 @@ sidebar_position: 1
 
 # The Power of Visual Cues
 
-- How visual elements improve readability and engagement
-- Research on how developers scan documentation before reading
+- Improve readability and engagement
+- Developers scan documentation before reading
+- Look for table of content
 - Balance between professional appearance and visual interest
 
 
