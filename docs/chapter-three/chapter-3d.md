@@ -12,10 +12,6 @@ A maturity model is a business tool used to assess people/culture, processes/str
 
 🔗 [README Maturity Model](https://github.com/joelparkerhenderson/maturity-models/blob/main/examples/software-documentation/readme-maturity-model/index.md)
 
-### The Art of README
-A little history and some core concepts   
-🔗 [Now archived GH project](https://github.com/hackergrrl/art-of-readme)
-
 
 ### Awesome README
 
@@ -28,6 +24,20 @@ Curated list of awesome documentations 😍
 Ever thought of doing technical writing course?  
 
 🔗 you can sign up [here](https://developers.google.com/tech-writing)
+
+  
+### Write the Docs
+Write the Docs is a global community of people who care about documentation. ♥️
+
+They are compendium of README knowledge:
+- How to onboard whole engineering team for tech documentation?
+- What are principles to follow when write?
+- Importance of accessibility of documentation
+
+They have also Slack community ♥️
+
+🔗 [Write The Docs](https://www.writethedocs.org/guide/)
+
 
 
 ![ornament](../red-small.png)

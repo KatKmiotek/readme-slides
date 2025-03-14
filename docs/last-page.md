@@ -6,7 +6,7 @@ sidebar_position: 11
 Thank you for listening to my presentation.  
   
   
-Enjoy the rest of the conference!  
+**Enjoy the rest of the conference!**  
   
 Find me on LinkedIn: Kat Kmiotek
   
