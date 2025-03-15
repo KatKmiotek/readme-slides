@@ -9,5 +9,8 @@ sidebar_position: 1
 - Look for table of content
 - Balance between professional appearance and visual interest
 
+🔗 VSCode extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+
 
 ![ornament](../red-small.png)
