@@ -6,6 +6,7 @@ sidebar_position: 10
 
 ### Once Story is published:
 - update it along the code changes (PR template)
+- no README or stale README? 
 <br/>
 ![pr-template](./pr_template.png)
 <br/>
