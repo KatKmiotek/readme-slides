@@ -17,11 +17,13 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">Presented by Kat Kmiotek</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/cover-page">
-            Slides
+            Open the book
           </Link>
         </div>
       </div>
